@@ -6,9 +6,7 @@
 
  # 📃 프로젝트 정보
 
-<img src="https://github.com/beetnalhee/Student_Management_System/assets/151362604/73779b64-4aec-4e57-9352-c557210eed98" width="500" height="180"/></br>
-
-
+<img src="https://github.com/beetnalhee/Student_Management_System/assets/151362604/155dd4ed-0a9f-48e6-8d23-1920108cebce" width="500" height="180"/></br>
 
 > * [코드보기](https://github.com/beetnalhee/board/blob/main/java/com/ezen/board/dao/JdbcArticleDao.java)
 </br>
@@ -25,8 +23,8 @@
 
 > * 학생 성적 등록
 > * 학생 기록 삭제
-> * 조건별 검색
-> * 조건별 정렬
+> * 조건별 검색(학번/이름)
+> * 조건별 정렬(학번/이름/총점)
 
 
 </br>
