@@ -6,7 +6,9 @@
 
  # 📃 프로젝트 정보
 
-<img src="https://github.com/beetnalhee/board/assets/151362604/628de603-b0a8-49f9-a608-87d8e5dc04fe" width="500" height="180"/></br>
+<img src="https://github.com/beetnalhee/Student_Management_System/assets/151362604/73779b64-4aec-4e57-9352-c557210eed98" width="500" height="180"/></br>
+
+
 
 > * [코드보기](https://github.com/beetnalhee/board/blob/main/java/com/ezen/board/dao/JdbcArticleDao.java)
 </br>
