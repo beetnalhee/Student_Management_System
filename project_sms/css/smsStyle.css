@@ -1,0 +1,56 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+
+h2{
+  padding: 20px;
+  color: black;
+  text-align: center;
+}
+
+.numandnametext{
+  display: inline-flex;
+  margin: 10px;
+  justify-content: space-between;
+}
+
+.container-fluid{
+  margin-left: auto 30px;
+}
+
+.secondline{
+  width: 100%;
+  margin: 20px 20px;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 5;
+}
+
+/* .container-fluid{
+  width: 500px;
+} */
+
+
+
+.dropdown{
+  margin-left: 56%;
+}
+
+input{
+  border: 1px solid rgb(73, 73, 72);
+  border-radius: 10px;
+}
+
+
+
