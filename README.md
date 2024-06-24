@@ -1,14 +1,12 @@
-# 📋 Student_Management_System
+# 📋 Student Management System
 학생 성적관리 프로그램 
-
-</br>
 </br>
 
  # 📃 프로젝트 정보
 
 <img src="https://github.com/beetnalhee/Student_Management_System/assets/151362604/155dd4ed-0a9f-48e6-8d23-1920108cebce" width="500" height="180"/></br>
 
-> * [코드보기](https://github.com/beetnalhee/board/blob/main/java/com/ezen/board/dao/JdbcArticleDao.java)
+> * [코드보기](https://github.com/beetnalhee/Student_Management_System/blob/main/project_sms/js/app.js)
 </br>
 
 
