@@ -1,14 +1,12 @@
 # 📋 Student Management System
-학생 성적관리 프로그램 
+자바스크립트를 활용한 학생 성적관리 프로그램 
 </br>
 
  # 📃 프로젝트 정보
 
 <img src="https://github.com/beetnalhee/Student_Management_System/assets/151362604/155dd4ed-0a9f-48e6-8d23-1920108cebce" width="400" height="180"/></br>
-
 > * [코드보기](https://github.com/beetnalhee/Student_Management_System/blob/main/project_sms/js/app.js)
 </br>
-
 
 # 📚 개발환경 및 사용기술
 >  * 개발기간 : 2024.03.24 ~ 03.29. (5일)
